@@ -1,8 +1,6 @@
-import sys
-
-
 def nome() -> int:
     return 'z'
+
 
 numero = input('Digite um Numero: ')
 guarda = int(-1)
@@ -17,5 +15,7 @@ if teste:
 else:
     print('não')
 
-
 print(nome())
+
+
+
